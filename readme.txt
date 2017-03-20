@@ -1,1 +1,1 @@
-common code snippets of PHP
+PHP 常用的代码片段
